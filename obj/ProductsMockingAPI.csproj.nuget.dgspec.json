@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj": {}
+    "c:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj": {
+    "c:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
+        "projectUniqueName": "c:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
         "projectName": "ProductsMockingAPI",
-        "projectPath": "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
+        "projectPath": "c:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\obj\\",
+        "outputPath": "c:\\Users\\eduar\\dev\\ProductsMockingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",

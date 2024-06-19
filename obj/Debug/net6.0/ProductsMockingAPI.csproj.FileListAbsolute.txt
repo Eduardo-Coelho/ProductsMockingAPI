@@ -25,3 +25,5 @@ C:\Users\eduar\dev\ProductsMockingAPI\obj\Debug\net6.0\refint\ProductsMockingAPI
 C:\Users\eduar\dev\ProductsMockingAPI\obj\Debug\net6.0\ProductsMockingAPI.pdb
 C:\Users\eduar\dev\ProductsMockingAPI\obj\Debug\net6.0\ProductsMockingAPI.genruntimeconfig.cache
 C:\Users\eduar\dev\ProductsMockingAPI\obj\Debug\net6.0\ref\ProductsMockingAPI.dll
+c:\Users\eduar\dev\ProductsMockingAPI\bin\Debug\net6.0\launch.json
+c:\Users\eduar\dev\ProductsMockingAPI\bin\Debug\net6.0\tasks.json
