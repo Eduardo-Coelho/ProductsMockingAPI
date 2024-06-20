@@ -2,18 +2,16 @@
 
 A simple ASP.NET REST API that provides mock Product data
 
-`
-{
-Id: 1,
-Name: 'Product A',
-Price: 100,
-}
-
-`
+`{
+    "id": 2,
+    "name": "product b",
+    "price": 300,
+    "amount": 100
+}`
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, run first:
 
 ### `dotnet run`
 
@@ -27,12 +25,12 @@ In the project directory, you can run:
 
 ## Available endpoints
 
-### GET all `/api​/Products`
+# GET all `/api​/Products`
 
-### GET by id `​/api​/Products​/{id}`
+# GET by id `​/api​/Products​/{id}`
 
-### POST `​/api​/Products`
+# POST `​/api​/Products`
 
-### PUT `/api​/Products​/{id}`
+# PUT `/api​/Products​/{id}`
 
-### DELETE `/api​/Products​/{id}`
+# DELETE `/api​/Products​/{id}`

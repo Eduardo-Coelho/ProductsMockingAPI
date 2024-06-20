@@ -7,7 +7,11 @@ namespace ProductAPI.Repositories
 {
     public class ProductRepository
     {
-        private readonly List<Product> _products = new List<Product>();
+        private readonly List<Product> _products = new List<Product>  {
+            new Product { Id = 1, Name = "product a", Price = 100, Amount = 5 },
+            new Product { Id = 2, Name = "product b", Price = 300, Amount = 100 },
+            new Product { Id = 3, Name = "product c", Price = 100, Amount = 50 },
+        };
 
         public IEnumerable<Product> GetAll()
         {
