@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+Ieor4Aa0PssfZ0vz+EPQuB9jV8jOsarN4spFGo565PIiy6D1zYYP4unn7GMnoSm60u0pzRzJ9vkXVNY6zTug==",
+  "dgSpecHash": "32ewso9VunNT+R9EOL6Lm61Aty3B3RoPBe5gFenNwGHxT2jenOpzQAlpVNSqX9buDtezKarK3/uUc/GHpLIwCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
+  "projectFilePath": "C:\\Users\\eduar\\dev\\ASP.NET_projects\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

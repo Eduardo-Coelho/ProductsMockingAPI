@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\dev\\ASP.NET_projects\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
       "projectName": "ProductsMockingAPI",
-      "projectPath": "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
+      "projectPath": "C:\\Users\\eduar\\dev\\ASP.NET_projects\\ProductsMockingAPI\\ProductsMockingAPI.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduar\\dev\\ProductsMockingAPI\\obj\\",
+      "outputPath": "C:\\Users\\eduar\\dev\\ASP.NET_projects\\ProductsMockingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
