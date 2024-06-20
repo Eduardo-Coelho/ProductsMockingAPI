@@ -25,12 +25,12 @@ In the project directory, run first:
 
 ## Available endpoints
 
-# GET all `/api​/Products`
+GET all `/api​/products`
 
-# GET by id `​/api​/Products​/{id}`
+GET by id `​/api​/products/{id}`
 
-# POST `​/api​/Products`
+POST `​/api​/products`
 
-# PUT `/api​/Products​/{id}`
+PUT `/api​/products/{id}`
 
-# DELETE `/api​/Products​/{id}`
+DELETE `/api​/products/{id}`
