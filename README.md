@@ -1,6 +1,6 @@
 # ProductsMockingAPI
 
-A simple ASP.NET REST API that provides mock Product data
+This ASP.NET REST API serves as a foundational tool for developers aiming to create data-rich user interfaces. It simulates realistic Product data through HTTP endpoints, facilitating seamless integration and testing within applications. Leveraging ASP.NET's robust framework, developers can efficiently prototype and refine user experiences with mock data, ensuring scalability and performance in data-driven UI development.
 
 `{
     "id": 2,
